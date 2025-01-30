@@ -1,0 +1,31 @@
+.body{
+    
+    background-color: #031926;
+    
+    color: white;
+}
+
+table td{
+    height: 50px;
+    border-bottom: 2px solid #031926;
+    max-width: 50px;
+    word-wrap: break-word;
+}
+
+table{
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table thead{
+    border-bottom: 1px solid black;
+    height: 50px;
+}
+
+table tr{
+    cursor: pointer;
+    
+}
+table tr:hover{
+    background-color:#dcdcdc;
+}
