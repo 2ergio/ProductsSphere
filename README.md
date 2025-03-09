@@ -95,7 +95,7 @@ Asegurate de tener MongoDB corriendo en local o en la nube
     Una vez configurado el archivo `.env`, corre el siguiente comando para iniciar el servidor:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     El servidor de backend debería iniciarse en el puerto predeterminado (3000), puede ser modificado en el index.js.
@@ -118,7 +118,7 @@ Asegurate de tener MongoDB corriendo en local o en la nube
     Una vez que las dependencias estén instaladas, corre el siguiente comando para iniciar el servidor de desarrollo de React:
 
     ```bash
-    npm start
+    npm run dev
     ```
 
     La aplicación frontend debería abrirse automáticamente en tu navegador en el puerto 3000 o el puerto configurado.
